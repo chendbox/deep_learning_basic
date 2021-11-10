@@ -12,4 +12,5 @@ Important, I did not use any python deep learning package, and wrote the forward
 Takeaways: adding regualrization for overfitting issue, fine-tuning hyperparameters and learning rate to get a better results. 
 
 # mnist_cnn.py
-I built convolutional neural netowrk to classify mnist data. x_train shape: (60000, 28, 28, 1), 60000 train samples, 10000 test samples
+I built convolutional neural netowrk to classify mnist data. x_train shape: (60000, 28, 28, 1), 60000 train samples, 10000 test samples.
+Test loss: 0.033554285764694214, Test accuracy: 0.9918000102043152
